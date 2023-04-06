@@ -29,5 +29,5 @@
 
 .form-control.invalid input{
   border-color: red;
-  background-color: rgb(247, 173, 173);
+  background-color: #f7adad;
 }
